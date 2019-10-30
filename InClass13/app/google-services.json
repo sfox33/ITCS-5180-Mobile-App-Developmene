@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "637616576186",
+    "firebase_url": "https://inclass13-c24d2.firebaseio.com",
+    "project_id": "inclass13-c24d2",
+    "storage_bucket": "inclass13-c24d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637616576186:android:06a2a5ab9bf23602",
+        "android_client_info": {
+          "package_name": "edu.uncc.inclass13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637616576186-bhhdcb4j13720c4ujbtjr3i5po8rlmob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIruFVpr2PeHtZl65PqkF1t9TpM3EaO-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

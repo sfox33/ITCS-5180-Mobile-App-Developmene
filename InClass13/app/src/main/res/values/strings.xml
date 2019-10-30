@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InClass13</string>
+    <string name="first">First Name</string>
+    <string name="empty" />
+    <string name="last">Last Name</string>
+    <string name="email">Email</string>
+    <string name="choosePass">Password</string>
+    <string name="repeatPass">Confirm Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="newUser">New User?</string>
+    <string name="to">To:</string>
+    <string name="send">Send</string>
+</resources>

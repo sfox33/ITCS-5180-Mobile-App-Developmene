@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973936438101",
+    "firebase_url": "https://inclass12v2.firebaseio.com",
+    "project_id": "inclass12v2",
+    "storage_bucket": "inclass12v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973936438101:android:886205a6895d1749",
+        "android_client_info": {
+          "package_name": "edu.uncc.inclass12v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973936438101-70h1blbjdttlvjq66cv34ksoa43ptlkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uncc.inclass12v2",
+            "certificate_hash": "2bbb214bccfbf8b02126d0a4ff883876a54f9a74"
+          }
+        },
+        {
+          "client_id": "973936438101-vdoh0v42tstt4sfl8ricj9l5impbkdo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_u5AcLVHU5_pOFwc75msD3Onm8JQHoE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973936438101-vdoh0v42tstt4sfl8ricj9l5impbkdo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

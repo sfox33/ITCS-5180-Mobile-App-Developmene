@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InClass04</string>
+    <string name="passCount">Select Passwords count:</string>
+    <string name="passLength">Select Passwords length:</string>
+    <string name="pass">Password:</string>
+    <string name="genPass">Generate Passwords (Thread)</string>
+    <string name="genPassA">Generate Passwords (Async Task)</string>
+    <string name="Welcome">Welcome!</string>
+</resources>

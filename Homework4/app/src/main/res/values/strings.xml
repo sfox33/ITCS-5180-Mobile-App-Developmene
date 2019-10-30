@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework4</string>
+    <string name="action_settings">Settings</string>
+    <string name="showCategories">Show Categories</string>
+    <string name="goButton">Go</string>
+    <string name="articleName">Title</string>
+    <string name="empty" />
+</resources>
+

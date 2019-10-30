@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClass11</string>
+    <string name="empty"></string>
+    <string name="search">Search</string>
+    <string name="reset">Reset</string>
+    <string name="go">Go</string>
+</resources>
